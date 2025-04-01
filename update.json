@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 9,
     "downloadAndroidUrl": "https://github.com/contele/app_contele_equipes/raw/refs/heads/feat/codepush/ota/android/index.android.bundle.zip",
     "downloadIosUrl": "https://firebasestorage.googleapis.com/v0/b/ota-demo-68f38.appspot.com/o/main.jsbundle.zip?alt=media"
 }
