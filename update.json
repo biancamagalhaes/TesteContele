@@ -1,5 +1,5 @@
 {
-    "buildNumber": 14,
+    "buildNumber": 15,
     "version": "1.7.20",
     "downloadAndroidUrl": "https://github.com/contele/app_contele_equipes/raw/refs/heads/feat/codepush/ota/android/index.android.bundle.zip",
     "downloadIosUrl": "https://firebasestorage.googleapis.com/v0/b/ota-demo-68f38.appspot.com/o/main.jsbundle.zip?alt=media"
